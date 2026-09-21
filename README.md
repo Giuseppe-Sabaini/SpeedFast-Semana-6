@@ -14,7 +14,6 @@ Este proyecto corresponde a la evaluación de la semana 6 de la asignatura Desar
 
 Aplica conceptos de Programación Orientada a Objetos, validaciones de datos (como control de ID duplicados) y persistencia en memoria mediante `ArrayList`. Todo el flujo de la aplicación se maneja a través de una interfaz gráfica Swing interactiva desarrollada en IntelliJ IDEA, que permite registrar pedidos, listar las entregas en una tabla (`JTable`), asignar repartidores y navegar entre sus distintas ventanas modal/JFrame.
 
-⭐ Proyecto Actualizado: Incluye documentación Javadoc completa en sus modelos y vistas, validación de IDs únicos en el registro de pedidos y una ventana interactiva para la asignación de repartidores.
 ***
 
 # 🧱 Estructura General del Proyecto
